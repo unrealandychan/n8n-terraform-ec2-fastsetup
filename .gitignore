@@ -1,0 +1,3 @@
+.terraform
+.env
+ec2-key.pem
