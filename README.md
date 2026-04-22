@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=n8n--terraform--ec2--fastsetup&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Fast+n8n+deployment+on+AWS+EC2+via+Terraform&descAlignY=58&descSize=14" alt="Header"/>
+
+[![Stars](https://img.shields.io/github/stars/unrealandychan/n8n-terraform-ec2-fastsetup?style=for-the-badge&logo=github&color=f78166&logoColor=white&labelColor=0d1117)](https://github.com/unrealandychan/n8n-terraform-ec2-fastsetup/stargazers)
+[![Forks](https://img.shields.io/github/forks/unrealandychan/n8n-terraform-ec2-fastsetup?style=for-the-badge&logo=github&color=79c0ff&logoColor=white&labelColor=0d1117)](https://github.com/unrealandychan/n8n-terraform-ec2-fastsetup/network/members)
+[![Language](https://img.shields.io/badge/HCL-7B42BC?logo=terraform&style=for-the-badge&logoColor=white&labelColor=0d1117)](https://github.com/unrealandychan/n8n-terraform-ec2-fastsetup)
+[![n8n](https://img.shields.io/badge/n8n-Automation-ea4b71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0d1117)](https://n8n.io/)
+
+</div>
+
+---
+
 # n8n on AWS EC2 — Terraform Fast Setup
 
 > **One-command deployment** of a production-ready [n8n](https://n8n.io) workflow-automation server on AWS EC2, behind a Traefik reverse proxy with automatic TLS (Let's Encrypt).
